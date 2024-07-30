@@ -1,29 +1,9 @@
 Test
 
+2@
+
 3@
 
 Main
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
  sfewfwefewf
-
-sd
-=======
- s
->>>>>>> 55f23ee (merge3)
-=======
- sfewfwefewf
-<<<<<<< HEAD
->>>>>>> 05b77c4 (Update Text.txt)
-=======
-
-sd
->>>>>>> 03c64ac (merge4)
-=======
->>>>>>> 7502280 (Revert "merge2")
-=======
-Last
->>>>>>> 5b7ca2f (Last)
