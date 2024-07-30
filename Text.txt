@@ -1,13 +1,13 @@
 Test
 
+2@
+
 3@
 
 Main
 
-<<<<<<< HEAD
  sfewfwefewf
+Rest
+Rest 2
 
-sd
-=======
- s
->>>>>>> 55f23ee (merge3)
+ss
